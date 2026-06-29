@@ -24,7 +24,7 @@ This project uses Machine Learning techniques to classify microscopic images of 
 The dataset used in this project was obtained from **Kaggle**.
 
 Dataset Link:
-https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria
+ https://www.kaggle.com/datasets/cmacus/malaria-parasite-in-blood-smears
 
 ## Technologies Used
 
